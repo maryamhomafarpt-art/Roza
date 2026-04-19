@@ -50,4 +50,3 @@ It includes:
 2. Set working directory to project folder
 3. Run scripts:
 
-For STIP:
